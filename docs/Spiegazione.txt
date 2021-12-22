@@ -1,1 +1,3 @@
 == Questo è il mio esercizio per github ==
+L'obbiettivo è lo sviluppo di un piccolo software - una calcolatrice (class Calculator) - 
+che fa alcune operazioni (metodi con somma, sottrazione, divisione, moltpilicazione...)
